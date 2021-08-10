@@ -1,0 +1,853 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20200224140927+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200224140927+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Assignment 3: Indexing words) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 5 /First 12 0 R /Last 16 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 689.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Objectives)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 626.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Requirements)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 401.0236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Getting started)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 765.0236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Output format)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 363.6236 0 ] /Parent 11 0 R /Prev 15 0 R /Title (Grading)
+>>
+endobj
+17 0 obj
+<<
+/Count 3 /Kids [ 6 0 R 7 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Length 8459
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 89.91488 0 Td (Assignment 3: Indexing words) Tj T* -89.91488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (February 23st 2020) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 28.02937 0 Td (Deadline:) Tj T* -28.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (March 4nd 2020 23:59) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 668.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .18683 Tw (You will need to implement a resizing array and hash table API, and use those to create a complete index) Tj T* 0 Tw (of all words in a book or file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 605.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Your program must be named ) Tj /F3 10 Tf 0 0 0 rg (lookup) Tj /F1 10 Tf 0 0 0 rg ( and its basic operation is as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .864431 Tw (It takes a single command-line argument, the name of the file to build the index for, and builds the) Tj T* 0 Tw (corresponding word index table.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 551.0236 cm
+Q
+q
+1 0 0 1 62.69291 515.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .555777 Tw 12 TL /F1 10 Tf 0 0 0 rg (It proceeds to read lines from standard input and gets the first word ignoring the rest of each line. It) Tj T* 0 Tw .758626 Tw (then searches for that word in the index table. ) Tj /F4 10 Tf (If the word is in the index table, it will list all the line) Tj T* 0 Tw (numbers this word occurred on in the original file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .869318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Alternatively, it takes one additional argument ) Tj /F3 10 Tf 0 0 0 rg (-t) Tj /F1 10 Tf 0 0 0 rg ( and performs a series of timing tests for different) Tj T* 0 Tw (parameter sets when building the table.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .91686 Tw 12 TL /F1 10 Tf 0 0 0 rg (For the input file, all non-alphabetical characters should be treated as ) Tj /F2 10 Tf (spacing) Tj /F1 10 Tf ( and all letters should be) Tj T* 0 Tw 1.40186 Tw (converted to lowercase, before being stored in the table. ) Tj /F4 10 Tf (The words read on standard input should be) Tj T* 0 Tw (converted in the same way, to ensure they match the format in the table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 413.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.796457 Tw 12 TL /F1 10 Tf 0 0 0 rg (You must submit your work as a tarball. The command ) Tj /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (tarball) Tj /F1 10 Tf 0 0 0 rg ( will create a a tarball called) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (hash_table_submit.tar.gz) Tj /F1 10 Tf 0 0 0 rg ( containing the relevant files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Getting started) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm .04881 Tw 12 TL /F1 10 Tf 0 0 0 rg (Start by writing the code for ) Tj /F3 10 Tf 0 0 0 rg (array.c) Tj /F1 10 Tf 0 0 0 rg (, which is the datastructure that will contain all the line numbers) Tj T* 0 Tw .353735 Tw (for a specific word. Some words might only occur once, while common words will occur many times,) Tj T* 0 Tw .703984 Tw (so your array should be able to scale appropriately depending on the number of elements inserted.) Tj T* 0 Tw 1.181751 Tw (The command ) Tj /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (check) Tj /F1 10 Tf 0 0 0 rg ( will run some basic test, ) Tj /F4 10 Tf (but not all functionality of your array will be) Tj T* 0 Tw (tested by these checks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 302.0236 cm
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm -0.113349 Tw 12 TL /F1 10 Tf 0 0 0 rg (Next start writing the code for ) Tj /F3 10 Tf 0 0 0 rg (hash_table.c) Tj /F1 10 Tf 0 0 0 rg (. The code here will depend on your ) Tj /F3 10 Tf 0 0 0 rg (array.c) Tj /F1 10 Tf 0 0 0 rg ( working,) Tj T* 0 Tw .527356 Tw (as the table should return the complete array of line numbers for a given word when it is looked up.) Tj T* 0 Tw 1.38832 Tw (Be sure to add some functions of your own, to better divide up the functionality of the code. The) Tj T* 0 Tw .80186 Tw (command ) Tj /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (check) Tj /F1 10 Tf 0 0 0 rg ( will also run several tests on your hash table, ) Tj /F4 10 Tf (but again the provided tests) Tj T* 0 Tw (are not a complete check.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .064724 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write the code in ) Tj /F3 10 Tf 0 0 0 rg (main.c) Tj /F1 10 Tf 0 0 0 rg (. You will only need to complete 2 functions there, as the actual body of the) Tj T* 0 Tw 1.031318 Tw /F3 10 Tf 0 0 0 rg (main) Tj /F1 10 Tf 0 0 0 rg ( has already been provided. Make sure to convert the input as specified by the requirements) Tj T* 0 Tw .187209 Tw (above and study the output format in the example below. The last test that ) Tj /F3 10 Tf 0 0 0 rg (make) Tj ( ) Tj (check) Tj /F1 10 Tf 0 0 0 rg ( runs will try) Tj T* 0 Tw (some simple words on your complete program.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 182.0236 cm
+Q
+q
+1 0 0 1 62.69291 146.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .58248 Tw 12 TL /F1 10 Tf 0 0 0 rg (Add more hash functions to ) Tj /F3 10 Tf 0 0 0 rg (hash_func.c) Tj /F1 10 Tf 0 0 0 rg ( \(and modify ) Tj /F3 10 Tf 0 0 0 rg (hash_func.h) Tj /F1 10 Tf 0 0 0 rg ( accordingly\). You may write) Tj T* 0 Tw 1.001984 Tw (your own, or search for existing solutions online. If you use existing solutions, attribute the original) Tj T* 0 Tw (author and provide a link to the source.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 140.0236 cm
+Q
+q
+1 0 0 1 62.69291 80.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm .033314 Tw 12 TL /F1 10 Tf 0 0 0 rg (Study the provided function ) Tj /F3 10 Tf 0 0 0 rg (timed_construction) Tj /F1 10 Tf 0 0 0 rg (, which builds the table many times with different) Tj T* 0 Tw 1.746412 Tw (parameters. Add your own hash functions to the parameter set and expand the other parameter) Tj T* 0 Tw 1.126235 Tw (options as you think would be sensible. Rerun the timing tests using the ) Tj /F3 10 Tf 0 0 0 rg (-t) Tj /F1 10 Tf 0 0 0 rg ( option, several books) Tj T* 0 Tw 1.577485 Tw (have been included for you to test with. Include your best parameter set in the default ) Tj /F3 10 Tf 0 0 0 rg (#define) Tj /F1 10 Tf 0 0 0 rg  T* 0 Tw (parameters at the top of the file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 80.02362 cm
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Length 7201
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Output format) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .444987 Tw (Once the table is built, the program should read words from standard input and print the line numbers for) Tj T* 0 Tw 3.669269 Tw (each word. Every line should be considered a separate word, converted to lowercase, with any) Tj T* 0 Tw .163318 Tw (non-alphabetical character treated as spacing. Only the first word of every input line should be processed,) Tj T* 0 Tw (so any words after the first should be ignored.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .017882 Tw 12 TL /F1 10 Tf 0 0 0 rg (The program should the print the converted lowercase word and on every next line a ) Tj /F3 10 Tf 0 0 0 rg (*) Tj /F1 10 Tf 0 0 0 rg ( followed by the line) Tj T* 0 Tw .047633 Tw (number on which the word occurred. Finally the program should print an empty line. So for example, when) Tj T* 0 Tw .854418 Tw (testing with the command ) Tj /F3 10 Tf 0 0 0 rg (./lookup) Tj ( ) Tj (origin-of-species-ascii.txt) Tj /F1 10 Tf 0 0 0 rg (, with the input ) Tj /F3 10 Tf 0 0 0 rg (Creature's) Tj /F1 10 Tf 0 0 0 rg (,) Tj T* 0 Tw (we should see the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 494.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 132 re B*
+Q
+q
+BT 1 0 0 1 0 110 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ echo "Creature's" | ./lookup origin-of-species-ascii.txt) Tj T* (creature) Tj T* (* 3863) Tj T* (* 5878) Tj T* (* 7797) Tj T* (* 11876) Tj T* (* 13333) Tj T* (* 13627) Tj T* (* 13873) Tj T* (<) Tj (blank line) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 462.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .043145 Tw (If a word occurs several times on the same line, the line number should be included multiple times as well,) Tj T* 0 Tw (each time on a new line.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.8236 cm
+q
+BT 1 0 0 1 0 14 Tm -0.116374 Tw 12 TL /F1 10 Tf 0 0 0 rg (If a word does not occur in the text at all, your program should just output a blank line. So for example, with) Tj T* 0 Tw (the input ) Tj /F3 10 Tf 0 0 0 rg (Esoteric) Tj /F1 10 Tf 0 0 0 rg ( in ) Tj /F4 10 Tf (Origin of Species) Tj /F1 10 Tf ( it should look like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ echo "esoteric" | ./lookup origin-of-species-ascii.txt) Tj T* (esoteric) Tj T* (<) Tj (blank line) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 342.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your grade starts from 0, and the following tests determine your grade:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.6236 cm
+Q
+q
+1 0 0 1 62.69291 318.6236 cm
+Q
+q
+1 0 0 1 62.69291 294.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .540574 Tw 12 TL /F1 10 Tf 0 0 0 rg (+1pt if you have submitted an archive in the right format and your source code builds without errors) Tj T* 0 Tw (and you have modified ) Tj /F3 10 Tf 0 0 0 rg (array.c) Tj /F1 10 Tf 0 0 0 rg ( or ) Tj /F3 10 Tf 0 0 0 rg (hash_table.c) Tj /F1 10 Tf 0 0 0 rg ( in any way.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 288.6236 cm
+Q
+q
+1 0 0 1 62.69291 276.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your resizing array implementation works correctly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 270.6236 cm
+Q
+q
+1 0 0 1 62.69291 258.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+2pt if your hash table correctly supports basic inserts and lookup of integers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 252.6236 cm
+Q
+q
+1 0 0 1 62.69291 240.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your hash table correctly resizes when the maximum load factor is exceeded.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 234.6236 cm
+Q
+q
+1 0 0 1 62.69291 222.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your hash table correctly extends the existing value array if the key was already present.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 216.6236 cm
+Q
+q
+1 0 0 1 62.69291 204.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your hash table correctly deletes keys.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 198.6236 cm
+Q
+q
+1 0 0 1 62.69291 186.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your program returns the correct line numbers when given a test file and test input.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 180.6236 cm
+Q
+q
+1 0 0 1 62.69291 168.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your program correctly handles non-alphabetical characters and uppercase characters.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 162.6236 cm
+Q
+q
+1 0 0 1 62.69291 138.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .16936 Tw 12 TL /F1 10 Tf 0 0 0 rg (+1pt if you have added hash functions and included your best parameter set in the default ) Tj /F3 10 Tf 0 0 0 rg (#define) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* 0 Tw (parameters for the table in ) Tj /F3 10 Tf 0 0 0 rg (main.c) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 132.6236 cm
+Q
+q
+1 0 0 1 62.69291 108.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.220751 Tw 12 TL /F1 10 Tf 0 0 0 rg (-1pt if your code produces any warnings using the flags ) Tj /F3 10 Tf 0 0 0 rg (-Wpedantic) Tj ( ) Tj (-Wall) Tj ( ) Tj (-Wextra) Tj /F1 10 Tf 0 0 0 rg ( when) Tj T* 0 Tw (compiling.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 102.6236 cm
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Length 1085
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.119213 Tw 12 TL /F1 10 Tf 0 0 0 rg (-1pt if enabling the ) Tj /F3 10 Tf 0 0 0 rg (address) Tj ( ) Tj (sanitizer) Tj /F1 10 Tf 0 0 0 rg ( or running ) Tj /F3 10 Tf 0 0 0 rg (valgrind) Tj /F1 10 Tf 0 0 0 rg ( reports errors while running your) Tj T* 0 Tw 1.296098 Tw (code. ) Tj /F4 10 Tf (Note that you cannot test both of these at the same time, so disable ASAN in the Makefile) Tj T* 0 Tw (when testing with valgrind.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (-2pt If your implementation has style violations or has a too high complexity.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+ 
+endstream
+endobj
+21 0 obj
+<<
+/Nums [ 0 22 0 R 1 23 0 R 2 24 0 R ]
+>>
+endobj
+22 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+23 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+24 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000458 00000 n 
+0000000573 00000 n 
+0000000778 00000 n 
+0000000983 00000 n 
+0000001188 00000 n 
+0000001293 00000 n 
+0000001579 00000 n 
+0000001653 00000 n 
+0000001764 00000 n 
+0000001890 00000 n 
+0000002019 00000 n 
+0000002146 00000 n 
+0000002254 00000 n 
+0000002326 00000 n 
+0000010837 00000 n 
+0000018090 00000 n 
+0000019227 00000 n 
+0000019286 00000 n 
+0000019320 00000 n 
+0000019354 00000 n 
+trailer
+<<
+/ID 
+[<5845cf88d5f04214f4e9d3f6892443d2><5845cf88d5f04214f4e9d3f6892443d2>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 25
+>>
+startxref
+19388
+%%EOF
